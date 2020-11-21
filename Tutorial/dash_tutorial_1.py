@@ -8,6 +8,7 @@ Created:            Nov 2020
 
 NOTES:              (1) Run application with 'python dash_tutorial_1.py'.
                     (2) Navigate to 'http://127.0.0.1:8050' in web browser.
+                    Test!
 """
 
 import dash
